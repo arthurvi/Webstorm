@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorrc" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
