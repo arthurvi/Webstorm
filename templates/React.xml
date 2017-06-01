@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="reactpurecomponent" value="// @flow&#10;import React from 'react';&#10;&#10;type $COMPONENT$State = {};&#10;&#10;class $COMPONENT$ extends React.PureComponent {&#10;  state = {};&#10;  props: {};&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;Dummy&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;export default $COMPONENT$;" description="React Pure Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
