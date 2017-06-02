@@ -13,8 +13,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/dev/formagic-server/node_modules/eslint/bin/eslint.js" />
-      <option name="scopeName" value="src" />
+      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/eslint/bin/eslint.js" />
+      <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
