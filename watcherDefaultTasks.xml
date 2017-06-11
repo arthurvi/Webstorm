@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--fix $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/dev/planl-website/node_modules/eslint/bin/eslint.js" />
+      <option name="program" value="$USER_HOME$/dev/twise/node_modules/eslint/bin/eslint.js" />
       <option name="scopeName" value="All Places" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
