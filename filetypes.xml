@@ -9,6 +9,7 @@
       <mapping pattern="AllPeriodsOverview" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
