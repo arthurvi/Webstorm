@@ -1,11 +1,11 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--fix $FileName$" />
+      <option name="arguments" value=" --config $ContentRoot$/.prettierrc.yaml --write $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="NEVER" />
-      <option name="fileExtension" value="*" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
       <option name="immediateSync" value="false" />
       <option name="name" value="Prettier" />
       <option name="output" value="" />
@@ -13,10 +13,29 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/eslint/bin/eslint.js" />
-      <option name="scopeName" value="src" />
+      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/.bin/prettier" />
+      <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="workingDir" value="$ProjectFileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--write $FilePath$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="json" />
+      <option name="immediateSync" value="false" />
+      <option name="name" value="Prettier JSON" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/.bin/prettier" />
+      <option name="scopeName" value="Current File" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
   </component>
