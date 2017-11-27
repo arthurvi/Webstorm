@@ -51,14 +51,14 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/.bin/prettier" />
+      <option name="program" value="$USER_HOME$/dev/myt-webclient/node_modules/.bin/prettier" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--config $ProjectFileDir$/.prettierrc.yaml --write $FilePath$" />
+      <option name="arguments" value=" --config $ContentRoot$/.prettierrc.yaml --write $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
