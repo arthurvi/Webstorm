@@ -53,7 +53,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/.bin/prettier" />
+      <option name="program" value="$USER_HOME$/dev/planl-marketing/node_modules/.bin/prettier" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
@@ -73,7 +73,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/dev/formagic/node_modules/.bin/prettier" />
+      <option name="program" value="$USER_HOME$/dev/planl-marketing/node_modules/.bin/prettier" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="false" />
