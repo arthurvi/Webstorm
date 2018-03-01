@@ -5,4 +5,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="pure" value="import React from 'react';&#10;&#10;interface $COMPONENT$Props {&#10;&#10;}&#10;&#10;export default class $COMPONENT$ extends React.PureComponent&lt;$COMPONENT$Props&gt; {&#10;  render() {&#10;    return (&#10;      &lt;div&gt;todo&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;" description="TypeScript Pure Component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
