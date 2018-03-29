@@ -9,6 +9,7 @@
       <mapping pattern="AllPeriodsOverview" type="PLAIN_TEXT" />
       <mapping pattern=".npmrrc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrd" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorrc" type="PLAIN_TEXT" />
