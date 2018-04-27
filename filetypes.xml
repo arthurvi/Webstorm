@@ -1,6 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".aliases" type="Bash" />
+      <mapping pattern=".bash_prompt" type="Bash" />
+      <mapping pattern=".bashrc" type="Bash" />
+      <mapping pattern=".exports" type="Bash" />
+      <mapping pattern=".bash_profile" type="Bash" />
       <mapping ext="md" type="ECMAScript 6" />
       <mapping ext="rules" type="JSON" />
       <removed_mapping ext="md" type="Markdown" />
