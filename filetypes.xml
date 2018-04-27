@@ -21,6 +21,7 @@
       <mapping ext="gitconfig" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="mobileprovision" type="PLAIN_TEXT" />
+      <mapping pattern=".macos" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
